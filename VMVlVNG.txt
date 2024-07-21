@@ -1,2 +1,4 @@
+@*://www.right.com.cn/*
+
 # 付费或登录资源站
 *://*.jpopcover.com/*
